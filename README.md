@@ -125,7 +125,7 @@ Training stopped manually after 10 epochs
 
 | Metric     | Value     |
 |------------|-----------|
-| Accuracy   | 76.7%     |
+| Accuracy   | 77%     |
 | Classes    | 29        |
 | Epochs     | 10        |
 
